@@ -1,0 +1,2 @@
+﻿  ConsoleApplication1.cpp
+D:\c++\Лабораторна 5.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(15,51): error C2296: *: недопустимо, левый операнд имеет тип "double (__cdecl *)(const double,const double)"
